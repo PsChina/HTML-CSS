@@ -1,6 +1,6 @@
 # 如何用 css 画一个心形 (How to draw hearts using CSS)
 
-## 第一步 画一个长方形
+## 第一步 画一个长方形 (Draw a rectangle)
 
 ```html
   <div class="setp1"></div>
@@ -14,7 +14,7 @@
   }
 ```
 
-## 第二步 切圆角
+## 第二步 切圆角 (Cut the rounded)
 
 
 ```html
@@ -30,7 +30,7 @@
   }
 ```
 
-## 第三步 倾斜
+## 第三步 倾斜 (Tilt)
 
 ```html
   <div class="setp3">
@@ -54,7 +54,7 @@
   }
 ```
 
-## 第四步 合并
+## 第四步 合并 (Merge)
 
 ```html
   <div class="setp4">
@@ -81,7 +81,7 @@
 ```
 
 
-## 第五步 优化
+## 第五步 优化 (Optimize)
 
 ```html
   <div class="heart">
