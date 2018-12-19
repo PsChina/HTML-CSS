@@ -4,6 +4,8 @@
 
 ## 第一步 画一个长方形 (Draw a rectangle)
 
+这个长方形就是爱心的一半
+
 ```html
   <div class="setp1"></div>
 ```
@@ -18,6 +20,7 @@
 
 ## 第二步 切圆角 (Cut the rounded)
 
+切个圆角使得它更加像爱心
 
 ```html
   <div class="setp2"></div>
@@ -33,6 +36,8 @@
 ```
 
 ## 第三步 倾斜 (Tilt)
+
+倾斜一下完成爱心的一半
 
 ```html
   <div class="setp3">
@@ -57,6 +62,8 @@
 ```
 
 ## 第四步 合并 (Merge)
+
+另一半如法炮制合并成一个爱心
 
 ```html
   <div class="setp4">
@@ -84,6 +91,10 @@
 
 
 ## 第五步 优化 (Optimize)
+
+我们发现一个爱心用了 __3__ 个 `div` 冗余结构太多了让我们优化一下。
+
+用伪类代替冗余结构。
 
 ```html
   <div class="heart">
