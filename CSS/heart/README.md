@@ -1,5 +1,7 @@
 # 如何用 css 画一个心形 (How to draw hearts using CSS)
 
+用两个长方形切圆角倾斜位移并合并为一个心形
+
 ## 第一步 画一个长方形 (Draw a rectangle)
 
 ```html
