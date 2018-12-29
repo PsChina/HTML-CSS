@@ -1,7 +1,6 @@
-## @media 
+# @media
 
 媒体查询能够使`浏览器`根据不同尺寸的设备读取不同 css 文本。
-
 
 如
 
@@ -15,13 +14,11 @@
 
 如果打开机器浏览器宽度小于等于 300 那么背景色将会是 `lightblue`
 
-
-#### 例子:
+## 例子：
 
 一个在大屏手机上正常显示的网页，在小屏手机上显示不全，需要滚动，这时一套 css 就不能满足要求，需要我们用以上技术来为小屏手机定制 css
 
 大屏手机:
-
 
 ![pc-browser](https://github.com/PsChina/CSS/blob/master/images/mac-browser.png)
 
@@ -29,12 +26,9 @@
 
 如 iPhoneSE
 
-
 ![phone](https://github.com/PsChina/CSS/blob/master/images/phone.png)
 
-
 这时我们需要用媒体查询来修复这个问题让他在小屏手机上能正常工作
-
 
 ```css
 @media screen and (max-width: 321px) {
@@ -44,7 +38,9 @@
     }
 }
 ```
+
 在动态生成的页面加上类名 `small-media`
+
 ```js
 var productB = '\
 <div class="small-media">\
