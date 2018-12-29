@@ -32,9 +32,9 @@ Javascript 是网页上的默认行为和用户行为。
 
 ## html 概述
 
-html 全称: HyperText Markup Language
+html 全称: HyperText Markup Language
 
-中文: __超文本标记语言__。
+中文: __超文本标记语言__。
 
 超文本文件是 Web 的基本组成单元，也称为网页或 HTML 文档、Web 等，通常以 `.html` 或 `.htm` 为后缀的文件。
 
@@ -68,4 +68,4 @@ HTML用于描述功能的符号为“标记”，比如：`<p>`、`<h1>`等
 <p></p>
 ```
 
-![p](https://github.com/PsChina/CSS/blob/master/images/p.png)
+![p](https://github.com/PsChina/CSS/blob/master/images/p.jpeg)
