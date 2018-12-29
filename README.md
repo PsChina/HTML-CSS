@@ -26,7 +26,7 @@ Javascript 是网页上的默认行为和用户行为。
 
 ## 目录
 
-1. [html 概述](#html-概述)
+1. [html 概述](#html-概述)
 1. [什么是 html](#什么是-html)
 1. [html 基本语法](#html-基础语法)
 
