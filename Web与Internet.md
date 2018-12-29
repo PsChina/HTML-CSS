@@ -1,6 +1,6 @@
 # Web 与 Internet
 
-## Internet 简介
+## Internet 简介
 
 --Internet是一个全球性的计算机互联网络，中文名称有“因特网”、“国际互联网”、“国际网”、“交互网”等。
 
