@@ -82,3 +82,5 @@ HTML用于描述功能的符号为“标记”，比如：`<p>`、`<h1>`等
 ```
 
 ![p](https://github.com/PsChina/CSS/blob/master/images/p.jpeg)
+
+封闭式标签举例:
