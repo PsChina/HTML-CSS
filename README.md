@@ -39,7 +39,7 @@ html 全称: HyperText Markup Language
 
 超文本文件是 Web 的基本组成单元，也称为网页或 HTML 文档、Web 等，通常以 `.html` 或 `.htm` 为后缀的文件。
 
-Web页之间通过超文本中胡超链接组织在一起。
+Web页之间通过超文本中的超链接组织在一起。
 
 ## 什么是 html
 
