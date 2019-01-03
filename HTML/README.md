@@ -33,7 +33,7 @@ HTML页面上，可以嵌套用脚本语言编写的程序段，如：JavaScript
 
 ## html 基础语法
 
-[demo]()
+[demo](https://github.com/PsChina/HTML-CSS/tree/master/HTML/demo01-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
 
 用尖角号括起来的 标签名
 
