@@ -69,7 +69,7 @@ HTML页面上，可以嵌套用脚本语言编写的程序段，如：JavaScript
 
 ## 元素嵌套
 
-举例：div的潜逃
+举例：div的嵌套
 
 ```html
 <div>
