@@ -26,5 +26,5 @@ Javascript 是网页上的默认行为和用户行为。
 
 ## 目录
 
-1. [学习html]()
-1. [学习css]()
+1. [学习html](https://github.com/PsChina/HTML-CSS/tree/master/HTML#%E7%9B%AE%E5%BD%95)
+1. [学习css](https://github.com/PsChina/HTML-CSS/tree/master/CSS#%E7%9B%AE%E5%BD%95)
