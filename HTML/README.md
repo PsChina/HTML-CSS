@@ -2,6 +2,7 @@
 
 1. [html 概述](#html-概述)
 1. [什么是 html](#什么是-html)
+1. [文档类型](#文档类型)
 1. [html 基本语法](#html-基础语法)
 1. [封闭式标签](#封闭式标签)
 1. [开放式标签](#开放式标签)
@@ -30,6 +31,22 @@ HTML：超文本标记语言，一种纯文本类型的语言。
 由浏览器解析执行。
 
 HTML页面上，可以嵌套用脚本语言编写的程序段，如：JavaScript。
+
+## 文档类型
+
+[demo](https://github.com/PsChina/HTML-CSS/tree/master/HTML/demo00-文档类型)
+
+文档类型
+
+doctype 是 document type 的缩写。
+
+html: 超文本标记语言 (HyperText Markup Language)
+
+```html
+<!DOCTYPE html>
+```
+
+以上这条语句告诉浏览器：这个文档的类型是超文本标记语言，浏览器读到这条语句以后会用超文本标记语言解析器解析接下来的html语句。
 
 ## html 基础语法
 
