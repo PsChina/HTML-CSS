@@ -15,6 +15,7 @@
 1. [绝对路径](#绝对路径)
 1. [head 标签内还能放哪些元素](#head-标签内还能放哪些元素)
 1. [body 标签](#body)
+1. [站点的建立](#站点的建立)
 
 ## html 概述
 
@@ -224,3 +225,25 @@ url: `https://www.baidu.com` (协议+域名+路径+文件名)
 ## body
 
 就是我们的网页主体
+
+## 建立站点
+
+[demo](https://github.com/PsChina/HTML-CSS/tree/master/HTML/demo05-站点)
+
+1、新建工程文件夹 myWebsite
+
+2、新建各类资源文件夹
+
+css - 网站样式 （存放样式(.css)文件）
+
+html - 网站结构 （存放 .html 文件） - 是我们网站上一个一个的页面
+
+img - 网站上的图片 （也可以取名为静态资源）
+
+js - 网站上的行为 （用户的点击事件 滚动事件 等各种用户行为）
+
+3、首页是如何定义的
+
+在 html下 建立 index.html (首页)
+
+（系统会默认打开 index.html)

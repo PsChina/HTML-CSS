@@ -1,0 +1,13 @@
+div {
+    width: 200px;
+    height: 200px;
+    /* background-image: url(../img/timg.jpeg);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-color: red;
+    background-position: 50px 50px;
+    background-origin: 0px 0px;
+    */
+    background: url(../img/timg.jpeg) no-repeat 0px 0px;
+    background-size: 200px 200px;
+}
