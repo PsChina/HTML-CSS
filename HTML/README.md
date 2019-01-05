@@ -207,7 +207,7 @@ link 标签是用于将外部样式表连接到html网页内的一个标签元�
 
 url: `https://www.baidu.com` (协议+域名+路径+文件名)
 
-本机 （C:/doc1/file1/
+本机: `C:/doc1/file1/`
 
 ## head 标签内还能放哪些元素
 
