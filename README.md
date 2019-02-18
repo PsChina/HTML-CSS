@@ -22,7 +22,7 @@ HTML & CSS & Javascript。
 
 HTML 是网页制作的结构。
 
-CSS 是网页的样式（外观）。
+CSS 是网页的表现（外观）。
 
 Javascript 是网页上的默认行为和用户行为。
 
