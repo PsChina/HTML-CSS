@@ -1,0 +1,131 @@
+@import "~bootstrap-slider/dist/css/bootstrap-slider.css";
+
+.wayki-x-slider {
+  padding: 0 0.095rem;
+  overflow: hidden;
+}
+
+#wk-slider-sell,
+#wk-slider-buy,
+#wk-slider-auction {
+  height: 0.36rem;
+  width: 100%;
+
+  &#wk-slider-sell {
+    .slider-handle {
+      box-shadow: none;
+      width: 0.31rem;
+      height: 0.36rem;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      background: url("../../assets/images/trade/slider_dot_sell.png") no-repeat;
+      background-size: 100% 100%;
+      margin-left: 0;
+    }
+
+    .slider-selection {
+      background: $warn;
+    }
+
+    .in-selection {
+      background: $warn;
+    }
+  }
+
+  &#wk-slider-buy {
+    .slider-handle {
+      box-shadow: none;
+      width: 0.31rem;
+      height: 0.36rem;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      background: url("../../assets/images/trade/slider_dot_buy.png") no-repeat;
+      background-size: 100% 100%;
+      margin-left: 0;
+    }
+
+    .slider-selection {
+      background: $success;
+    }
+
+    .in-selection {
+      background: $success;
+    }
+  }
+
+  &#wk-slider-auction {
+    .slider-handle {
+      box-shadow: none;
+      width: 0.31rem;
+      height: 0.36rem;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      background: url("~@/assets/images/auction/wk-slider-auction.svg") no-repeat;
+      background-size: 100% 100%;
+      margin-left: 0;
+    }
+
+    .slider-selection {
+      background: #273aff;
+    }
+
+    .in-selection {
+      background: #273aff;
+    }
+
+    .slider-tick {
+      height: 0.12rem;
+    }
+  }
+
+  .slider-track {
+    border-radius: 0;
+    height: 0.02rem;
+    margin-top: 0;
+    transform: translateY(-50%);
+    background: #e7e9ef;
+  }
+
+  .slider-selection {
+    box-shadow: none;
+  }
+
+  .slider-tick-container {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .slider-tick {
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 0;
+    width: 0.05rem;
+    height: 0.1rem;
+    background: #e7e9ef;
+    margin-left: 0;
+    opacity: 1;
+    box-shadow: none;
+
+    &::before {
+      content: "";
+      height: 100%;
+      width: 0.02rem;
+      background: #ffffff;
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translate(-100%, -50%);
+    }
+
+    &::after {
+      content: "";
+      height: 100%;
+      width: 0.02rem;
+      background: #ffffff;
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translate(100%, -50%);
+    }
+  }
+}
